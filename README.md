@@ -1,3 +1,8 @@
+# Ini adalah project learning framework cypress untuk automation testing
+
+# Code script test-case saya, terletak di directory integration/test.spec.js
+
+
 # Cypress
 
 ## What is this?
